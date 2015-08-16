@@ -1,0 +1,4 @@
+*.o
+demo
+.gdb_history
+core
